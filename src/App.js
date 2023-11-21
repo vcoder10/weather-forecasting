@@ -1,5 +1,5 @@
 import React from 'react';
-import Temp from './components/Temp.js';
+import Temp from './components/temp.js';
 
 function App() {
   return (
