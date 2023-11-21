@@ -1,6 +1,5 @@
-
-import Temp from './components/Temp';
-
+import React from 'react';
+import Temp from './components/Temp.js';
 
 function App() {
   return (
